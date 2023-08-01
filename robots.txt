@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://epinarski.github.io/al-folio/sitemap.xml
+Sitemap: https://epinarski.github.io/sitemap.xml
